@@ -34,10 +34,6 @@ A full-stack web application developed using Next.js and MongoDB that allows use
 
 ![cart](screenshots/cart.png)
 
-### Order Confirmation
-
-![confimation](screenshots/confirmation.png)
-
 ### Order History
 
 ![orders](screenshots/orders.png)
